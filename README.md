@@ -10,7 +10,7 @@ A NestJS project that scrapes NYC school menus and displays them in JSON API or 
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/nyc-menus.git
+git clone https://github.com/website-f/NYC-School-Menus.git
 cd nyc-menus
 npm install
 ```
@@ -24,4 +24,4 @@ npm run start:dev
 - Base: https://nyc-school-menus-production.up.railway.app/
 - API: /menus
 - UI: /menus/ui
-- Scrape: /menus/scrape
+- Scrape: /menus/scrape?mealType=lunch
