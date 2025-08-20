@@ -21,7 +21,7 @@ npm run start:dev
 - UI: http://localhost:3000/menus/ui
 
 🌍 Live Test Endpoint
-- Base: https://nyc-menus.up.railway.app
+- Base: https://nyc-school-menus-production.up.railway.app/
 - API: /menus
 - UI: /menus/ui
 - Scrape: /menus/scrape
