@@ -16,12 +16,12 @@ npm install
 ```
 ▶️ Running locally
 npm run start:dev
-API: http://localhost:3000/menus
-Scrape: http://localhost:3000/menus/scrape?mealType=lunch
-UI: http://localhost:3000/menus/ui
+- API: http://localhost:3000/menus 
+- Scrape: http://localhost:3000/menus/scrape?mealType=lunch 
+- UI: http://localhost:3000/menus/ui
 
 🌍 Live Test Endpoint
-Base: https://nyc-menus.up.railway.app
-API: /menus
-UI: /menus/ui
-Scrape: /menus/scrape
+- Base: https://nyc-menus.up.railway.app
+- API: /menus
+- UI: /menus/ui
+- Scrape: /menus/scrape
